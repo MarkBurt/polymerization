@@ -38,7 +38,7 @@ import java.util.Map;
 public class WebLogAspect {
     private static final Logger LOGGER = LoggerFactory.getLogger(WebLogAspect.class);
 
-    @Pointcut("execution(public * com.alsyun.controller.*.*(..))||execution(public * com.aslyun.*.controller.*.*(..))")
+    @Pointcut("execution(public * com.alsyun.controller.*.*(..))||execution(public * com.alsyun.*.controller.*.*(..))")
     public void webLog() {
     }
 

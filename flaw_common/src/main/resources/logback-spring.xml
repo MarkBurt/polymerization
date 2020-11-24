@@ -211,11 +211,11 @@
         <appender-ref ref="LOG_STASH_ERROR"/>
     </root>
 
-    <logger name="com.aslyun.common.log.WebLogAspect" level="DEBUG">
+    <logger name="com.alsyun.common.log.WebLogAspect" level="DEBUG">
         <appender-ref ref="LOG_STASH_RECORD"/>
     </logger>
 
-    <logger name="com.aslyun" level="DEBUG">
+    <logger name="com.alsyun" level="DEBUG">
         <appender-ref ref="LOG_STASH_BUSINESS"/>
     </logger>
 </configuration>
