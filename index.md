@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+### 后端技术
 
-You can use the [editor on GitHub](https://github.com/MarkBurt/polymerization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+| 技术                   | 说明                 | 官网                                                 |
+| ---------------------- | -------------------- | ---------------------------------------------------- |
+| Spring Cloud           | 微服务框架           | https://spring.io/projects/spring-cloud              |
+| Spring Cloud Alibaba   | 微服务框架           | https://github.com/alibaba/spring-cloud-alibaba      |
+| Spring Boot            | 容器+MVC框架         | https://spring.io/projects/spring-boot               |
+| Spring Security Oauth2 | 认证和授权框架       | https://spring.io/projects/spring-security-oauth     |
+| MyBatis                | ORM框架              | http://www.mybatis.org/mybatis-3/zh/index.html       |
+| MyBatisGenerator       | 数据层代码生成       | http://www.mybatis.org/generator/index.html          |
+| PageHelper             | MyBatis物理分页插件  | http://git.oschina.net/free/Mybatis_PageHelper       |
+| Knife4j                | 文档生产工具         | https://github.com/xiaoymin/swagger-bootstrap-ui     |
+| Elasticsearch          | 搜索引擎             | https://github.com/elastic/elasticsearch             |
+| RabbitMq               | 消息队列             | https://www.rabbitmq.com/                            |
+| Redis                  | 分布式缓存           | https://redis.io/                                    |
+| MongoDb                | NoSql数据库          | https://www.mongodb.com/                             |
+| Docker                 | 应用容器引擎         | https://www.docker.com/                              |
+| Druid                  | 数据库连接池         | https://github.com/alibaba/druid                     |
+| OSS                    | 对象存储             | https://github.com/aliyun/aliyun-oss-java-sdk        |
+| MinIO                  | 对象存储             | https://github.com/minio/minio                       |
+| JWT                    | JWT登录支持          | https://github.com/jwtk/jjwt                         |
+| LogStash               | 日志收集             | https://github.com/logstash/logstash-logback-encoder |
+| Lombok                 | 简化对象封装工具     | https://github.com/rzwitserloot/lombok               |
+| Seata                  | 全局事务管理框架     | https://github.com/seata/seata                       |
+| Portainer              | 可视化Docker容器管理 | https://github.com/portainer/portainer               |
+| Jenkins                | 自动化部署工具       | https://github.com/jenkinsci/jenkins                 |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 前端技术
+| 技术                   | 说明                     | 官网                                                 |
+| ---------------------- | --------------------     | ---------------------------------------------------- |
+| Flutter                | Google推出新的跨平台解决方案           | https://flutter.dev             |
+| Vue        | 前端框架              | https://vuejs.org/   
 
-### Markdown
+### 开发环境
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarkBurt/polymerization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| 工具          | 版本号 | 下载                                                         |
+| ------------- | ------ | ------------------------------------------------------------ |
+| JDK           | 1.8    | https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html |
+| Mysql         | 5.7    | https://www.mysql.com/                                       |
+| Redis         | 5.0    | https://redis.io/download                                    |
+| Elasticsearch | 7.6.2  | https://www.elastic.co/cn/downloads/elasticsearch            |
+| Kibana        | 7.6.2  | https://www.elastic.co/cn/downloads/kibana                   |
+| Logstash      | 7.6.2  | https://www.elastic.co/cn/downloads/logstash                 |
+| MongoDb       | 4.2.5  | https://www.mongodb.com/download-center                      |
+| RabbitMq      | 3.7.14 | http://www.rabbitmq.com/download.html                        |
+| nginx         | 1.10   | http://nginx.org/en/download.html                            |
