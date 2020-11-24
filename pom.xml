@@ -9,6 +9,8 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>flaw_common</module>
+        <module>flaw_mbg</module>
+        <module>flaw_mbgcode</module>
     </modules>
     <packaging>pom</packaging>
 
