@@ -1,6 +1,7 @@
 package com.alsyun.common.config;
 
-import com.macro.mall.common.domain.SwaggerProperties;
+
+import com.alsyun.common.domain.SwaggerProperties;
 import org.springframework.context.annotation.Bean;
 import springfox.documentation.builders.ApiInfoBuilder;
 import springfox.documentation.builders.PathSelectors;
@@ -15,7 +16,6 @@ import java.util.List;
 
 /**
  * Swagger基础配置
- * Created by macro on 2020/7/16.
  */
 public abstract class BaseSwaggerConfig {
 
